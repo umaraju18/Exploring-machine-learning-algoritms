@@ -1,2 +1,2 @@
 # Exploring-machine-learning-algoritms
-LInear Regression model for Boston Housing
+Multi LInear Regression model for Boston Housing
